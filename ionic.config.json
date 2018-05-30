@@ -1,6 +1,6 @@
 {
   "name": "wiki-dauntless",
-  "app_id": "",
+  "app_id": "1868f330",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
